@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## The best way to start a full-stack, typesafe Next.js app
 
-## Getting Started
+### Technology 💻
 
-First, run the development server:
+- NextJs
+- Typescript
+- Prisma
+- Tailwind CSS
+- SWR
+- Zustand
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Design Systemn 🖌️
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The project folder structure is ready to be used in atomic design
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+#### Standardization and robust structure
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+One of the main objectives of Atomic Design is to unite basic interface design elements and make the structure of the product or platform more robust and organized.
 
-## Learn More
+In this way, the component handling experience is much more optimized, consistent and consistent throughout the product development.
 
-To learn more about Next.js, take a look at the following resources:
+This includes communication between the product development time, which can better visualize the system structure.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Scalability
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Atomic Design is a modular, component-based system. This methodology makes the development of digital products or interfaces in general more scalable, as it is easier to add new functionalities using this type of system.
 
-## Deploy on Vercel
+#### Focus on user experience
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+With the use of modular systems based on components, it is much simpler to implement the necessary changes so that the user has a good experience when using an interface.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### Easy maintenance
+
+Another advantage of Atomic Design is that, when using a system of components, it is easier to carry out tests and maintenance to improve the product.
